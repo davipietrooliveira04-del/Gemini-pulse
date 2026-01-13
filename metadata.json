@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Pulse",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
